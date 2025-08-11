@@ -54,6 +54,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### **🛠️ Skill Proficiency**
+![Java](https://img.shields.io/badge/Java-80%25-orange)
+![React](https://img.shields.io/badge/React-75%25-blue)
+![Node.js](https://img.shields.io/badge/Node.js-75%25-green)
+![DSA](https://img.shields.io/badge/Data%20Structures-65%25-yellow)
+
+
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -81,12 +88,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
 
 ---
-### **🛠️ Skill Proficiency**
-![Java](https://img.shields.io/badge/Java-90%25-orange)
-![React](https://img.shields.io/badge/React-85%25-blue)
-![Node.js](https://img.shields.io/badge/Node.js-80%25-green)
-![DSA](https://img.shields.io/badge/Data%20Structures-75%25-yellow)
-
 
 ### **🎧 Currently Jamming To**
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
