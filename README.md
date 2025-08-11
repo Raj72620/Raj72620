@@ -20,13 +20,7 @@
 
 </div>
 
----
 
-## 🏆 Featured Repository
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raj72620&repo=your-best-repo&theme=radical&hide_border=true)](https://github.com/Raj72620/your-best-repo)
-
----
 
 ## 👨‍💻 About Me
 
