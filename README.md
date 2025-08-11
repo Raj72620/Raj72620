@@ -89,5 +89,6 @@
 
 ---
 
-### 🎧 My Coding Anthem
-[![Da Da Dasse](https://spotify-now-playing-readme.vercel.app/api/spotify-track?id=5XSiCt3vTN86SUE7WuHaja)](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
+### 🎧 Background Music
+```diff
++ Now Playing: "Da Da Dasse" on Spotify → [▶️ Click to Listen](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
