@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm Nishanth Singh 
+# 🚀 Hey, I'm Nishanth Raj
 
 ## 💻 MERN Stack Developer | 🧠 DSA Enthusiast | 🏆 Hackathon Participant
 
@@ -81,13 +81,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
 
 ---
+### **☕ Buy Me a Coffee**
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #1 in [repository]
-2. 🚀 Pushed 3 commits to [repository]
-3. 💪 Opened issue #2 in [repository]
-4. 🎉 Created new repository [repository]
-5. 🚀 Starred [repository]
-<!--END_SECTION:activity-->
