@@ -91,3 +91,6 @@
 
 ### **🎧 Currently Jamming To**
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
+
+### **📅 3D Contribution Graph**
+[![3D Calendar](https://github-profile-3d-contrib.vercel.app/profile?username=Raj72620&theme=github_dark)](https://github.com/Raj72620)
