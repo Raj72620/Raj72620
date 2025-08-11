@@ -89,5 +89,7 @@
 
 ---
 
-### **🎧 Permanent Coding Soundtrack**
-[![Da Da Dasse](https://spotify-recently-played-readme.vercel.app/api?user=&track=5XSiCt3vTN86SUE7WuHaja&width=450)](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
+### **🎧 Eternal Jam**
+<a href="https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja">
+  <img src="https://spotify-readme-xi.vercel.app/api/spotify-track?id=5XSiCt3vTN86SUE7WuHaja&theme=dark" width="450" alt="Da Da Dasse">
+</a>
