@@ -89,5 +89,5 @@
 
 ---
 
-### 🎧 My Coding Soundtrack
-[![Da Da Dasse](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false&track=5XSiCt3vTN86SUE7WuHaja)](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
+### 🎧 My Coding Anthem
+[![Da Da Dasse](https://spotify-now-playing-readme.vercel.app/api/spotify-track?id=5XSiCt3vTN86SUE7WuHaja)](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
