@@ -81,6 +81,12 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
 
 ---
-### **☕ Buy Me a Coffee**
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
+### **🛠️ Skill Proficiency**
+![Java](https://img.shields.io/badge/Java-90%25-orange)
+![React](https://img.shields.io/badge/React-85%25-blue)
+![Node.js](https://img.shields.io/badge/Node.js-80%25-green)
+![DSA](https://img.shields.io/badge/Data%20Structures-75%25-yellow)
 
+
+### **🎧 Currently Jamming To**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
