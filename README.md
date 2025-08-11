@@ -89,6 +89,5 @@
 
 ---
 
-### 🎧 Background Music
-```diff
-+ Now Playing: "Da Da Dasse" on Spotify → [▶️ Click to Listen](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
+### **🎧 Permanent Coding Soundtrack**
+[![Da Da Dasse](https://spotify-recently-played-readme.vercel.app/api?user=&track=5XSiCt3vTN86SUE7WuHaja&width=450)](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
