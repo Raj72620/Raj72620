@@ -89,8 +89,5 @@
 
 ---
 
-### **🎧 Currently Jamming To**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
-
-### **📅 3D Contribution Graph**
-[![3D Calendar](https://github-profile-3d-contrib.vercel.app/profile?username=Raj72620&theme=github_dark)](https://github.com/Raj72620)
+### 🎧 My Coding Soundtrack
+[![Da Da Dasse](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false&track=5XSiCt3vTN86SUE7WuHaja)](https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja)
