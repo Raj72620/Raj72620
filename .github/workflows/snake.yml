@@ -2,21 +2,27 @@ name: Snake Game Generator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake Game
+        uses: Platane/snk@master
         with:
-          github_user_name: Raj72620
-          outputs: dist/snake.svg
-      - uses: JamesIves/github-pages-deploy-action@v4
+          github_user_name: Raj72620 
+          svg_out_path: snake.svg    
+          
+      - name: Deploy to Output Branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
-          folder: dist
+          folder: .
+          clean-exclude: |
+            snake.svg
