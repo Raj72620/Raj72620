@@ -23,7 +23,7 @@
 <div align="center">
 
 ### 3D Contribution Graph
-[![3D GitHub Activity](https://github-profile-3d.vercel.app/api?username=Raj72620&theme=radical)](https://github.com/Raj72620)
+[![3D Contributions](https://github-readme-3d-contributions.vercel.app/api?username=Raj72620&theme=github_dark)](https://github.com/Raj72620)
 
 ### Snake Game Visualization  
 ![Contribution Snake](https://github.com/Raj72620/Raj72620/raw/output/snake.svg)
