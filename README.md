@@ -16,11 +16,15 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
   
-[![Snake Game Contribution Graph](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake-dark.svg)](https://github.com/Raj72620)
+## 🏃‍♂️ Coding Activity
 
-[![Isometric Pixel Art](https://github.com/Raj72620/Raj72620/blob/main/images/isometric-pixel-art.gif)](https://github.com/Raj72620)
+<div align="center">
+  
+![3D GitHub Contribution](https://github-contributions.vercel.app/api?username=Raj72620&layout=3d&theme=radical&hide_border=true)
+  
+![Dynamic Snake Game](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake-dark.svg)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raj72620&theme=radical&hide_border=true&custom_title=Weekly%20Development%20Breakdown)](https://wakatime.com/@Raj72620)
+</div>
 
 </div>
 
