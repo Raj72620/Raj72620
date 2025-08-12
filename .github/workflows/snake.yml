@@ -1,0 +1,22 @@
+name: Snake Game Generator
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Raj72620
+          outputs: dist/snake.svg
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
