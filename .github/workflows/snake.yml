@@ -1,31 +1,32 @@
-name: Snake Visualization Generator
+name: Snake Game Generator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # Daily update
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   push:
     branches: [ main ]
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required for branch operations
-
+      contents: write  # This is crucial for pushing to branches
+    
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@master
         with:
           github_user_name: Raj72620
           svg_out_path: snake.svg
           
-      - name: Deploy Visualization
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git switch --orphan output || git checkout output
-          git add -f snake.svg
-          git commit -m "Update snake visualization"
-          git push origin output --force
+          git checkout -b output 2>/dev/null || git checkout output
+          git add snake.svg
+          git commit -m "Update snake game" || echo "No changes to commit"
+          git push origin output -f
