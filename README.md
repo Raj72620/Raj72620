@@ -15,7 +15,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Raj72620&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
-  
+
+</div>
+
 ## 🏃‍♂️ Coding Activity
 
 <div align="center">
@@ -25,9 +27,6 @@
 ![Dynamic Snake Game](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-</div>
-
 
 
 ## 👨‍💻 About Me
