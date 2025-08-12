@@ -22,10 +22,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj72620&theme=react-dark)](https://github.com/Raj72620)
-
-### Snake Game Visualization  
-![Contribution Snake](https://github.com/Raj72620/Raj72620/raw/output/snake.svg)
+[![Detailed Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj72620&theme=github-compact&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=8&height=300&point=#36BCF7FF&count_private=true)](https://github.com/Raj72620)
 
 </div>
 
