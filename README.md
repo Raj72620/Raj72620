@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm Nishanth Raj
+# 🚀 Hello, I'm Nishanth
 
 ## 💻 MERN Stack Developer | 🧠 DSA Enthusiast | 🏆 Hackathon Participant
 
