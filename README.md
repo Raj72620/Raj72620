@@ -18,18 +18,17 @@
 
 </div>
 
-## 🏃‍♂️ Coding Activity
+## 🚀 Coding Activity
 
 <div align="center">
 
 ### 3D Contribution Graph
-[![3D GitHub Contributions](https://github-profile-3d.vercel.app/api?username=Raj72620&theme=dark)](https://github.com/Raj72620)
+[![3D GitHub Activity](https://github-profile-3d.vercel.app/api?username=Raj72620&theme=radical)](https://github.com/Raj72620)
 
-### Snake Game Contributions
-https://github.com/Raj72620/Raj72620/blob/main/.github/workflows/snake.yml
+### Snake Game Visualization  
+![Contribution Snake](https://github.com/Raj72620/Raj72620/raw/output/snake.svg)
 
 </div>
-
 
 ## 👨‍💻 About Me
 
