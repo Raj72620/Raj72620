@@ -22,13 +22,7 @@
 
 <div align="center">
 
-<div align="center">
-
-[![2D Activity](https://github-readme-activity-graph.vercel.app/graph?username=Raj72620&theme=github)](https://github.com/Raj72620)
-
-[![3D Backup](https://github-readme-3d-contributions.vercel.app/api?username=Raj72620&theme=dark)](https://github.com/Raj72620)
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj72620&theme=react-dark)](https://github.com/Raj72620)
 
 ### Snake Game Visualization  
 ![Contribution Snake](https://github.com/Raj72620/Raj72620/raw/output/snake.svg)
