@@ -18,6 +18,10 @@
   
 [![Snake Game Contribution Graph](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake-dark.svg)](https://github.com/Raj72620)
 
+[![Isometric Pixel Art](https://github.com/Raj72620/Raj72620/blob/main/images/isometric-pixel-art.gif)](https://github.com/Raj72620)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raj72620&theme=radical&hide_border=true&custom_title=Weekly%20Development%20Breakdown)](https://wakatime.com/@Raj72620)
+
 </div>
 
 
