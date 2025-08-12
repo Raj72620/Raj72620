@@ -26,7 +26,7 @@
 [![3D GitHub Contributions](https://github-profile-3d.vercel.app/api?username=Raj72620&theme=dark)](https://github.com/Raj72620)
 
 ### Snake Game Contributions
-![Snake Game](https://raw.githubusercontent.com/Raj72620/output/snake.svg)
+![Snake Game](https://github.com/Raj72620/Raj72620/blob/output/snake.svg)
 
 </div>
 
