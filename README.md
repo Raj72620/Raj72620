@@ -16,7 +16,7 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
   
-[![3D GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=Raj72620&layout=3d&theme=radical&hide_border=true)](https://github.com/Raj72620)
+[![Snake Game Contribution Graph](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake-dark.svg)](https://github.com/Raj72620)
 
 </div>
 
