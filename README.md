@@ -21,10 +21,12 @@
 ## 🏃‍♂️ Coding Activity
 
 <div align="center">
-  
-![3D GitHub Contribution](https://github-contributions.vercel.app/api?username=Raj72620&layout=3d&theme=radical&hide_border=true)
-  
-![Dynamic Snake Game](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake-dark.svg)
+
+### 3D Contribution Graph
+[![3D GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Raj72620&theme=react-dark&area=true&hide_border=true&custom_title=My%203D%20Contribution%20Graph)](https://github.com/Raj72620)
+
+### Snake Game Contributions
+![Snake Game](https://github.com/Raj72620/Raj72620/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
