@@ -23,10 +23,10 @@
 <div align="center">
 
 ### 3D Contribution Graph
-[![3D GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Raj72620&theme=react-dark&area=true&hide_border=true&custom_title=My%203D%20Contribution%20Graph)](https://github.com/Raj72620)
+[![3D GitHub Contributions](https://github-profile-3d.vercel.app/api?username=Raj72620&theme=dark)](https://github.com/Raj72620)
 
 ### Snake Game Contributions
-![Snake Game](https://raw.githubusercontent.com/Raj72620/output/snake.svg?refresh=$(date +%s))
+![Snake Game](https://raw.githubusercontent.com/Raj72620/output/snake.svg)
 
 </div>
 
