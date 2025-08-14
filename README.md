@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm Nishanth
+# 🚀 Hello there, I'm Nishanth
 
 ## 💻 MERN Stack Developer | 🧠 DSA Enthusiast | 🏆 Hackathon Participant
 
