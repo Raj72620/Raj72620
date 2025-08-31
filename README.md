@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final Year CSE Student at SVCET, Chittoor  
+🎓 Final Year IT Student at SVCET, Chittoor  
 💡 Passionate about problem-solving and full-stack development  
 🏆 Actively participates in hackathons and tech events  
 📚 Continuous learner exploring new technologies  
