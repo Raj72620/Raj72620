@@ -1,4 +1,4 @@
-![Coding Process](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Matrix Code](https://raw.githubusercontent.com/gist/xearon/792d13e70b0460e7567d4ae9366e30d1/raw/7f9e94740c5f0c75f5dab26e7354b7b78eabde1f/matrix.gif)
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
 
 
