@@ -1,11 +1,18 @@
-<div align="center" style="border: 2px solid #2563EB; border-radius: 10px; padding: 20px; margin: 20px 0;">
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
+<!-- Gradient Banner -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 30px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+
+<h1 align="center" style="color: white; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+  Nishanth Singh 👋
 </h1>
 
 <div align="center">
-  <h3>🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion</h3>
+  <h3 style="color: white; margin: 10px 0 0 0; font-weight: 500; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
+    🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion
+  </h3>
+</div>
+
 </div>
 
 </div>
