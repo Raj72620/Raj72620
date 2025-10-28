@@ -1,28 +1,20 @@
-<div align="center">
+# 👋 Hi there! I'm Nishanth Singh
 
-<div style="background: linear-gradient(135deg, #4F46E5 0%, #7E22CE 100%); border-radius: 12px; padding: 30px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+## 🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion
 
-<h1 align="center" style="color: white; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-  Nishanth Singh 👋
-</h1>
+---
 
 <div align="center">
-  <h3 style="color: white; margin: 10px 0 0 0; font-weight: 500; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
-    🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion
-  </h3>
-</div>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Raj72620&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-</div>
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical)
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Raj72620&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical)
-
-</div>
+---
 
 ## 📖 About Me
 
