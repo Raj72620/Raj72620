@@ -1,11 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
-</h1>
-
 <div align="center">
-  <h3>🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion</h3>
-</div>
+  
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nishanth%20Singh&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 
+<!-- Dynamic Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&color=gradient&duration=4000&lines=Full-Stack+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Hackathon+Champion;Problem+Solver" alt="Typing SVG" />
+
+<!-- Animated Grid -->
+![Grid Snake](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake.svg)
+
+</div>
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical)
