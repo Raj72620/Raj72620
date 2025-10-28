@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Glass Effect Border -->
-<div style="background: rgba(255, 255, 255, 0.05); border-radius: 15px; padding: 25px; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+<!-- Card Style Border -->
+<div style="border: 1.5px solid #4B5563; border-radius: 10px; padding: 30px; background: #111827;">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
