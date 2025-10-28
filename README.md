@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
 
-<div align="center">
 https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
 
-</div>
+
 
 <div align="center">
   <h3 style="color: white; margin: 10px 0 0 0; font-weight: 500; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
