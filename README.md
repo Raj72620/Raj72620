@@ -1,4 +1,4 @@
-![Programming](https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif)
+
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
 
 
@@ -11,6 +11,8 @@
 </div>
 
 </div>
+
+![Professional Developer Coding](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif)
 
 <div align="center">
   
