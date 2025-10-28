@@ -1,62 +1,82 @@
-💻 Nishanth Singh
-MERN Stack Developer | DSA Enthusiast | Hackathon Champion
-📊 GitHub Analytics
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
+</h1>
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues
+  <h3>🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion</h3>
+</div>
 
-https://streak-stats.demolab.com/?user=Raj72620&theme=radical&hide_border=true&fire=FF0000&background=0D1117
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Raj72620&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical)
 
 </div>
-📈 Coding Activity
+
+## 📖 About Me
+
+I'm a passionate Full-Stack Developer specializing in the MERN stack, with a strong foundation in Data Structures and Algorithms. I love building scalable web applications and solving complex problems.
+
+- 🎓 Final Year IT Student at SVCET, Chittoor
+- 💡 Passionate about problem-solving and innovative solutions
+- 🚀 Building cutting-edge web applications
+- 🌱 Continuously learning and growing
+
+## 🛠️ Tech Stack
+
+### 📚 Programming Languages
 <div align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=Raj72620&theme=github-compact&area=true&hide_border=true&radius=8&height=300&point=#36BCF7FF&count_private=true
+  
+| Java | JavaScript | TypeScript | Python | C |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java" width="50"> | <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://skillicons.dev/icons?i=ts" width="50"> | <img src="https://skillicons.dev/icons?i=python" width="50"> | <img src="https://skillicons.dev/icons?i=c" width="50"> |
 
 </div>
-👨‍💻 About Me
-🎓 Final Year IT Student | SVCET, Chittoor
-💻 Full-Stack Developer specializing in MERN stack
-🏆 Hackathon Enthusiast with multiple competition experiences
-🚀 Problem Solver passionate about algorithms and system design
 
-"Transforming complex problems into elegant solutions through code and innovation."
-
-🔭 Currently Building: Scalable MERN applications with TypeScript
-
-🌱 Mastering: Advanced System Design & Microservices Architecture
-
-📚 Learning: Cloud Technologies & DevOps Practices
-
-💡 Interests: Open Source, Tech Communities, Mentoring
-
-🛠️ Tech Stack
+### 🌐 Web Technologies
 <div align="center">
-Programming Languages
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> </div>
-Frontend Technologies
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> </div>
-Backend & Databases
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </div>
-Tools & Platforms
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> </div> </div>
-🏆 Coding Profiles
-<div align="center">
-https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
-https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white
+  
+| React | Node.js | Express | MongoDB | HTML5 | CSS3 | Tailwind |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react" width="50"> | <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=express" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"> | <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"> |
 
 </div>
-📫 Connect With Me
+
+### 🔧 Tools & Platforms
 <div align="center">
-https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  
+| Git | GitHub | VS Code | Postman | Netlify |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=git" width="50"> | <img src="https://skillicons.dev/icons?i=github" width="50"> | <img src="https://skillicons.dev/icons?i=vscode" width="50"> | <img src="https://skillicons.dev/icons?i=postman" width="50"> | <img src="https://skillicons.dev/icons?i=netlify" width="50"> |
 
 </div>
-<div align="center">
-⚡ Quick Stats
-https://komarev.com/ghpvc/?username=Raj72620&color=blueviolet&style=flat-square
 
-"Code is poetry, and every bug is just a misplaced verse."
+## 📊 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishanth-Raj/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/renusin39mc/)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://myportfolio9618.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-singh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanthraj9618@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Code is like humor. When you have to explain it, it's bad."
+
+⭐️ From [Nishanth Singh](https://github.com/Raj72620)
 
 </div>
