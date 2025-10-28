@@ -10,7 +10,6 @@
 
 </div>
 
-
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical)
