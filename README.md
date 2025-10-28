@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Gradient Banner -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 30px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+<div style="background: linear-gradient(135deg, #4F46E5 0%, #7E22CE 100%); border-radius: 12px; padding: 30px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
 
 <h1 align="center" style="color: white; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
   Nishanth Singh 👋
