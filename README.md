@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Border Container -->
-<div style="border: 3px solid transparent; border-radius: 15px; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 3px;">
+<!-- Animated Border -->
+<div style="border-radius: 15px; padding: 3px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #ff6b6b); background-size: 400% 400%; animation: gradientShift 8s ease infinite;">
 
 <div style="background: #0d1117; border-radius: 12px; padding: 30px;">
 
@@ -16,6 +16,18 @@
 </div>
 </div>
 </div>
+
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+
+
+
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical)
