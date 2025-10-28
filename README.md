@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Card Style Border -->
-<div style="border: 1.5px solid #4B5563; border-radius: 10px; padding: 30px; background: #111827;">
+<!-- Tech Border -->
+<div style="border: 2px solid #2563EB; border-radius: 8px; padding: 25px; background: #0F172A;">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
@@ -13,7 +13,6 @@
 
 </div>
 </div>
-
 
 
 <div align="center">
