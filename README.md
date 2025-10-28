@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- Minimal Border -->
-<div style="border: 2px solid #2d3748; border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
+<!-- Tech Border -->
+<div style="border: 2px solid #38b2ac; border-radius: 12px; padding: 25px; background: #0d1117; position: relative; overflow: hidden;">
+
+<!-- Corner Decorations -->
+<div style="position: absolute; top: 0; left: 0; width: 20px; height: 20px; border-top: 2px solid #38b2ac; border-left: 2px solid #38b2ac;"></div>
+<div style="position: absolute; top: 0; right: 0; width: 20px; height: 20px; border-top: 2px solid #38b2ac; border-right: 2px solid #38b2ac;"></div>
+<div style="position: absolute; bottom: 0; left: 0; width: 20px; height: 20px; border-bottom: 2px solid #38b2ac; border-left: 2px solid #38b2ac;"></div>
+<div style="position: absolute; bottom: 0; right: 0; width: 20px; height: 20px; border-bottom: 2px solid #38b2ac; border-right: 2px solid #38b2ac;"></div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
@@ -13,7 +19,6 @@
 
 </div>
 </div>
-
 
 
 
