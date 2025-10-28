@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Border -->
-<div style="border-radius: 15px; padding: 3px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #ff6b6b); background-size: 400% 400%; animation: gradientShift 8s ease infinite;">
-
-<div style="background: #0d1117; border-radius: 12px; padding: 30px;">
+<!-- Minimal Border -->
+<div style="border: 2px solid #2d3748; border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #0f172a, #1e293b); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
@@ -15,15 +13,6 @@
 
 </div>
 </div>
-</div>
-
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 
 
 
