@@ -1,3 +1,10 @@
+<div align="center">
+
+<!-- Border Container -->
+<div style="border: 3px solid transparent; border-radius: 15px; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 3px;">
+
+<div style="background: #0d1117; border-radius: 12px; padding: 30px;">
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
 </h1>
@@ -6,6 +13,9 @@
   <h3>🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion</h3>
 </div>
 
+</div>
+</div>
+</div>
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&theme=radical)
