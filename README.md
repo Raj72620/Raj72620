@@ -1,10 +1,7 @@
-<div align="center">
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<div style="background: linear-gradient(135deg, #4F46E5 0%, #7E22CE 100%); border-radius: 12px; padding: 30px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+<h1 align="center">Hi 👋, I'm Nishanth</h1>
 
-<h1 align="center" style="color: white; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-  Nishanth Singh 👋
-</h1>
 
 <div align="center">
   <h3 style="color: white; margin: 10px 0 0 0; font-weight: 500; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
