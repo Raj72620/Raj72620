@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- Tech Border -->
-<div style="border: 2px solid #38b2ac; border-radius: 12px; padding: 25px; background: #0d1117; position: relative; overflow: hidden;">
-
-<!-- Corner Decorations -->
-<div style="position: absolute; top: 0; left: 0; width: 20px; height: 20px; border-top: 2px solid #38b2ac; border-left: 2px solid #38b2ac;"></div>
-<div style="position: absolute; top: 0; right: 0; width: 20px; height: 20px; border-top: 2px solid #38b2ac; border-right: 2px solid #38b2ac;"></div>
-<div style="position: absolute; bottom: 0; left: 0; width: 20px; height: 20px; border-bottom: 2px solid #38b2ac; border-left: 2px solid #38b2ac;"></div>
-<div style="position: absolute; bottom: 0; right: 0; width: 20px; height: 20px; border-bottom: 2px solid #38b2ac; border-right: 2px solid #38b2ac;"></div>
+<!-- Glass Effect Border -->
+<div style="background: rgba(255, 255, 255, 0.05); border-radius: 15px; padding: 25px; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
