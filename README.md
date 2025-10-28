@@ -1,7 +1,4 @@
-<div align="center">
-
-<!-- Tech Border -->
-<div style="border: 2px solid #2563EB; border-radius: 8px; padding: 25px; background: #0F172A;">
+<div align="center" style="border: 2px solid #2563EB; border-radius: 10px; padding: 20px; margin: 20px 0;">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Singh!;" />
@@ -11,7 +8,6 @@
   <h3>🚀 MERN Stack Developer | 💻 DSA Enthusiast | 🏆 Hackathon Champion</h3>
 </div>
 
-</div>
 </div>
 
 
