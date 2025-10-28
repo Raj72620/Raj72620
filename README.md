@@ -1,4 +1,4 @@
-![Code Typing](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif)
+![Coding Process](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
 
 
