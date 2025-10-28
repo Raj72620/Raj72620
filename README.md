@@ -1,13 +1,20 @@
 <div align="center">
+
+<!-- Professional Banner -->
+<img src="https://i.imgur.com/8wYgvQp.png" alt="Nishanth Singh Banner" width="100%"/>
+
+<br/>
+<br/>
+
+<!-- Professional Header -->
+<div align="center">
   
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nishanth%20Singh&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn" />
-
-<!-- Dynamic Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&color=gradient&duration=4000&lines=Full-Stack+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Hackathon+Champion;Problem+Solver" alt="Typing SVG" />
-
-<!-- Animated Grid -->
-![Grid Snake](https://raw.githubusercontent.com/Raj72620/Raj72620/output/github-contribution-grid-snake.svg)
+# **NISHANTH SINGH**
+### **Full-Stack Engineer | MERN Stack Specialist | Competitive Programmer**
+  
+<div style="border: 2px solid #00D4FF; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); margin: 20px 0;">
+  <h3 style="color: #00D4FF; margin: 0;">🚀 Transforming Ideas into Scalable Digital Solutions</h3>
+</div>
 
 </div>
 <div align="center">
